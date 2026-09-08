@@ -1,4 +1,4 @@
-# Exp 7 CRUD Operations on Products Collection using MongoDB
+# Exp 8 CRUD Operations on Products Collection using MongoDB
 
 **Date:01/09/2026**
 **Name: praveen kumar k
